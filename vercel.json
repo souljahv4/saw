@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/saw(/.*)?",
+      "destination": "/$1"
+    }
+  ]
+}
